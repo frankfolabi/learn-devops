@@ -13,21 +13,20 @@ statement.
 ## Use `##` to get this size
 ###### This is the smallest with `######` 
 
-You can create a comment with \<!-- Text -->
 <!-- This comment would not show in my file 
 You can even have it on multiple lines -->
 
-* Use star \* or hyphen \- to creat an unordered list
+* Use star `*` or hyphen `-` to create an unordered list
    * you can have a sub point
    * if you indent your star with few spaces
-   - The dash can also be used 
-   - another one level
+   - The dash - can also be used 
+   + A plus + another one level
 
-1. What about ordered list? Use \1.
+1. What about ordered list? Use `1.`
 1. second item
 1. third item
 
-\_The backslash is used to \*escape charaters\*
+The backslash `\` is used to escape charaters
 
 _How was this line italicize? use the \_ on both ends of the lines_
 
@@ -41,14 +40,11 @@ __another bold type__
 
 :wave: emoji 
 
-![Link to an image](/path/to/the/image.png)
+[Link to an image](/path/to/the/image.png)
 
 
 `back tick is used for code snippets` 
 
-- [ ]
-- [ ]
-- [ ]
 - [x] This checkbox is marked
 
 
@@ -63,7 +59,7 @@ What goes here
 </header>
 
 &copy; Copyright symbol
-&bull; Wactch out for that
+&bull; This will create a dot
 
 > This is a quoted text
 
@@ -87,17 +83,11 @@ syntax
 
 GFM - GitHub-Flavored Markdown
 
-+ I don't know this yet
-
-/code
-/details
-/tasklists
-/table
 /template
 
 
 @mention the username
 
-? What about you
+
 
 
