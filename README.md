@@ -6,38 +6,30 @@ to use them. You will also learn about GitHub which is the world's most
 popular cloud-hosting git repository.
 
 You may wonder how this README file was created? This is written using 
-the Markdown language. 
+the Markdown language. Why not let us quickly review this? 
 To create a title and increase the font size, use the \# to preface the 
 statement. 
-# This is the biggest Title 
-## Second level with `##`
-### Third level with `###`
-#### Fourth with `####`
-##### Fifth `#####`
-###### This is the smallest. `######` 
+# `#` produces this size
+## Use `##` to get this size
+###### This is the smallest with `######` 
 
+You can create a comment with \<!-- Text -->
 <!-- This comment would not show in my file 
 You can even have it on multiple lines -->
 
-Here are some bullet points or unordered list:
-
-* Use the star or hyphen/dash button
-* Another star again
-* A third star is cool
+* Use star \* or hyphen \- to creat an unordered list
    * you can have a sub point
    * if you indent your star with few spaces
-   - dash can also be used
+   - The dash can also be used 
    - another one level
 
-What about ordered list?
-
-1. first item
+1. What about ordered list? Use \1.
 1. second item
 1. third item
 
 \_The backslash is used to \*escape charaters\*
 
-_This should italicize your lines_
+_How was this line italicize? use the \_ on both ends of the lines_
 
 *This also italicize as well*
 
