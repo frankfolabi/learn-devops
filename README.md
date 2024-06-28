@@ -2,15 +2,19 @@
 
 Git is a version control system used by developers and others.
 This repos would introduce you to common git commands and how 
-to us them. You will also learn about GitHub which is the world's most 
+to use them. You will also learn about GitHub which is the world's most 
 popular cloud-hosting git repository.
 
-
-### Title - Learning Markdown Language on the go
-## a bigger title
-# the biggest title
-
-###### You can have <h6> heading. That is the smallest.
+You may wonder how this README file was created? This is written using 
+the Markdown language. 
+To create a title and increase the font size, use the \# to preface the 
+statement. 
+# This is the biggest Title 
+## Second level with `##`
+### Third level with `###`
+#### Fourth with `####`
+##### Fifth `#####`
+###### This is the smallest. `######` 
 
 <!-- This comment would not show in my file 
 You can even have it on multiple lines -->
