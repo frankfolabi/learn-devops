@@ -1,8 +1,15 @@
-Here are common commands to get start with in learing git:
+Here are common commands:
+
 git init  
+
 git commit -m "Your commit message"
+
 git add
+
 git log
+
 git status
+
 git help
+
 git version
