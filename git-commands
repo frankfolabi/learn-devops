@@ -13,3 +13,22 @@ git status
 git help
 
 git version
+
+git checkout -b branchName
+
+git merge
+
+git rebase
+
+git switch
+
+HEAD  git checkout <commit-hash>
+
+
+    Moving upwards one commit at a time with ^
+    Moving upwards a number of times with ~<num>
+git reset HEAD
+
+git revert HEAD
+
+

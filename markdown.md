@@ -128,13 +128,9 @@ return n
 Using HTML tags, colors can be displayed.
 
 <div style="color: red;">This is red text</div>
-
 <div style="color: blue;">This is blue text</div>
-
 <div style="color: aqua;">This is aqua text</div>
-
 <div style="color: orange;">This is orange text</div>
-
 <div style="color: yellow;">This is yellow text</div>
 
 
