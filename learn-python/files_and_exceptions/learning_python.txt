@@ -1,0 +1,4 @@
+In Python you can do a lot of things. The language syntax is human friendly. I have learnt a lot in this book.
+In Python you can with functions and classes that can do a particular job very well. 
+In Python you can use while loops and for loops to do things over and over.
+In Python you can use libraries and modules to avoid reinventing the wheel, keep you codes clean and access a lot of functionalities.
