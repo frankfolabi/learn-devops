@@ -1,0 +1,34 @@
+Here are common commands:
+
+git init  
+
+git commit -m "Your commit message"
+
+git add
+
+git log
+
+git status
+
+git help
+
+git version
+
+git checkout -b branchName
+
+git merge
+
+git rebase
+
+git switch
+
+HEAD  git checkout <commit-hash>
+
+
+    Moving upwards one commit at a time with ^
+    Moving upwards a number of times with ~<num>
+git reset HEAD
+
+git revert HEAD
+
+
